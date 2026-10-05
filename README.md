@@ -1,6 +1,6 @@
 # SC Website
 
-A static HTML/CSS website for the KDU SC project, covering campus life, labs, workshops, hackathons, and more.
+A static HTML/CSS website built as a course project for the **Web Development** course at KDU. It covers campus life, labs, workshops, hackathons, and more.
 
 **Live site:** https://akshovya99.github.io/web_dev_project_kdu/
 
